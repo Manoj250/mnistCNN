@@ -1,1 +1,1 @@
-# mnistCNN
+# mnistCNN hand written digit classification
